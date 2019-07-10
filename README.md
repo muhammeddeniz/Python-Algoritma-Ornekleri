@@ -22,3 +22,10 @@ Python ile yazılmış onlarca örnek algoritma.
 Örnek_10 -> Girilen 3 basamaklı bir sayının basamaklarının küpleri toplamı sayının
 kendine eşit olup olmadığını bulan program (Armstrong sayı)
 
+Örnek_11 -> Grilen 8 sayidan çift olanların teklere bölümünü veren program
+
+Örnek_12 -> 10 ile 1000 arasındaki tam kare sayilari ekrana yazdıran program
+
+Örnek_13 -> Girilen 5 sayidan negatif olanların toplamını yazdıran program
+
+Örnek_14 -> Girilen sayinin 4 ün katı olup olmadığını söyleyen program
