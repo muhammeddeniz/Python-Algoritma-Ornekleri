@@ -38,3 +38,5 @@ kendine eşit olup olmadığını bulan program (Armstrong sayı)
 Not: Kendisi hariç bütün pozitif bölenlerinin toplamı kendisine eşit olan sayılara mükemmel sayı denir.
 
 Örnek_18 -> 1 ile 1000 arasındaki çift sayiların toplamını veren program
+
+Örnek_19 -> Herhangi bir sayinin herhangibir dereceden kuvvetini hesaplayan program
