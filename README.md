@@ -29,3 +29,12 @@ kendine eşit olup olmadığını bulan program (Armstrong sayı)
 Örnek_13 -> Girilen 5 sayidan negatif olanların toplamını yazdıran program
 
 Örnek_14 -> Girilen sayinin 4 ün katı olup olmadığını söyleyen program
+
+Örnek_15 -> Fibonacci serisinin ilk 10 terimini ekrana yazdıran program
+
+Örnek_16 -> Klavyeden girilen sayinin pozitif negatif veya 0 olduğunu söyleyen program
+
+Örnek_17 -> Klavyeden girilen sayinin mükemmel sayi olup olmadığını söyleyen program
+Not: Kendisi hariç bütün pozitif bölenlerinin toplamı kendisine eşit olan sayılara mükemmel sayı denir.
+
+Örnek_18 -> 1 ile 1000 arasındaki çift sayiların toplamını veren program
