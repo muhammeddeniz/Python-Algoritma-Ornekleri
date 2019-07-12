@@ -40,3 +40,9 @@ Not: Kendisi hariç bütün pozitif bölenlerinin toplamı kendisine eşit olan 
 Örnek_18 -> 1 ile 1000 arasındaki çift sayiların toplamını veren program
 
 Örnek_19 -> Herhangi bir sayinin herhangibir dereceden kuvvetini hesaplayan program
+
+Örnek_20 -> Girilen sayinin Güçlü sayi olup olmadığını söyleyen program
+Not: rakamları çarpımı ile rakamları toplamının toplamı kendine
+eşit olan iki basamaklı sayılara denir.
+
+Örnek_21 -> 1'den 500'e kadar olan sayilarin toplamını veren program
