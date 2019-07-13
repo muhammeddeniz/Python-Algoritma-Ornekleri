@@ -46,3 +46,12 @@ Not: rakamları çarpımı ile rakamları toplamının toplamı kendine
 eşit olan iki basamaklı sayılara denir.
 
 Örnek_21 -> 1'den 500'e kadar olan sayilarin toplamını veren program
+
+Örnek_22 -> Kullanıcıdan iki sayi alan ve bu iki sayi da 20 den büyükse toplama işlemi yapan, küçük
+veya eşitse çarpma işlemi yapan program
+
+Örnek_23 -> İki kenari girilen dikdörtgenin alanını ve çevresini bulan program
+
+Örnek_24 -> Girilen sayinin karekökünü bulan program
+
+Örnek_25 -> Beden kitle endeksini hesaplayan program
