@@ -55,3 +55,15 @@ veya eşitse çarpma işlemi yapan program
 Örnek_24 -> Girilen sayinin karekökünü bulan program
 
 Örnek_25 -> Beden kitle endeksini hesaplayan program
+
+Örnek_26 -> 10 ile 50 arasındaki asal sayilari ekrana yazdıran program
+
+Örnek_27 -> 1 ile 100 arasında kaç tane asal sayi olduğunu gösteren program
+
+Örnek_28 -> 1 ile 10 arasındakitsayilarin karelerinin toplamini bulan program
+
+Örnek_29 -> Girilen kelimeyi harflerine ayiran program
+
+Örnek_30 -> İki açısı girilen üçgenin üçüncü açısını bulan program
+
+Örnek_31 -> Girilen 6 tam sayinin ortalamasını ekrana yazdıran program
