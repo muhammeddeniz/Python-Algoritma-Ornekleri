@@ -67,3 +67,14 @@ veya eşitse çarpma işlemi yapan program
 Örnek_30 -> İki açısı girilen üçgenin üçüncü açısını bulan program
 
 Örnek_31 -> Girilen 6 tam sayinin ortalamasını ekrana yazdıran program
+
+Örnek_32 -> Girilen 5 adet sayidan en büyük olanını ekrana yazan program
+
+Örnek_33 -> Klavyeden -1 sayısı girilene kadar ekrana sayı girişine izin veren program
+
+Örnek_34 -> Girilen 10 sayidan pozitiflerin ve negatiflerin sayisini gösteren program
+
+Örnek_35 -> 0 ile 100 arasındaki sayilarda 7 ye bölümünden 3 kalanını veren
+sayilari ekrana yazdıran program
+
+Örnek_36 -> 1'den başlayıp kullanıcın girdiği sayiya kadarki sayilari ekrana yazdıran program
