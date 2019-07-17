@@ -78,3 +78,16 @@ veya eşitse çarpma işlemi yapan program
 sayilari ekrana yazdıran program
 
 Örnek_36 -> 1'den başlayıp kullanıcın girdiği sayiya kadarki sayilari ekrana yazdıran program
+
+Örnek_37 -> Dışardan girilen vize ve final notuna göre öğrencinin harf notunu hesaplayıp ekrena yazdıran program
+
+Örnek_38 -> Girilen bir kelimenin uzunluğunu bulan program
+
+Örnek_39 -> Girilen kelimeyi tersten yazdıran program
+
+Örnek_40 -> 10 elemanlı bir sayı dizisinde en küçük  elemanın bu dizinin kaçıncı elemanı
+olduğunu bulan program
+
+Örnek_41 -> Girilen sayinin mutlak değerini bulan program
+
+Örnek_42 -> Rastgele  küçükten büyüğe 5 sayi üreten program
